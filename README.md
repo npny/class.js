@@ -1,4 +1,4 @@
-[Class.JS](https://github.com/theinternetismadeofcats/class.js)
+[Class.JS](https://github.com/npny/class.js)
 ========
 Making javascript easier, 222 bytes at a time.
 
@@ -195,4 +195,4 @@ License
 
 class.js is released under the [MIT license](http://opensource.org/licenses/mit-license.php).
 
-(c) Pierre Boyer 2013
+Pierre Boyer, 2013
